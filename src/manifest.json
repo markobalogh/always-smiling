@@ -1,0 +1,12 @@
+{
+    "name": "Always Smiling",
+    "version":"1.0",
+    "description":"Make the world a little bit better by going to smile.amazon.com instead of amazon.com",
+    "manifest_version":2,
+    "background": {
+        "scripts": ["background.js"],
+        "persistent":true
+    },
+    "permissions": ["webRequest"],
+    
+}

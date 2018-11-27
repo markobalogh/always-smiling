@@ -1,0 +1,3 @@
+chrome.webRequest.onBeforeRequest.addListener(
+    
+)
