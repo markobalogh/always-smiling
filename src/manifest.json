@@ -1,7 +1,7 @@
 {
     "name": "Always Smiling",
     "version":"1.0",
-    "description":"Make the world a little bit better by going to smile.amazon.com instead of amazon.com",
+    "description":"Make the world a little bit better by using smile.amazon.com instead of amazon.com. When you use smile.amazon.com, Amazon donates 0.5% of the price of your purchase to a charity of your choice (at no cost to you). This is great, but most people don't know about it or simply forget to use it. This extension automatically redirects you to smile.amazon.com whenever you use amazon.com.",
     "manifest_version":2,
     "background": {
         "scripts": ["background.js"],
