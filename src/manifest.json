@@ -7,6 +7,17 @@
         "scripts": ["background.js"],
         "persistent":true
     },
-    "permissions": ["webRequest"],
-    
+    "permissions": ["webRequest", "*://amazon.com/*", "*://www.amazon.com/*", "webRequestBlocking"],
+    "page_action": {
+        "default_icon": {
+            "16": "icon_16.png",
+            "48": "icon_48.png",
+            "128": "icon_128.png"
+        }
+    },
+    "icons": {
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
+    }
 }
