@@ -2,6 +2,8 @@
     "name": "Always Smiling",
     "version":"1.0",
     "description":"Make the world a little bit better by using smile.amazon.com instead of amazon.com.",
+    "default_locale": "en",
+    "author": "Marko Balogh",
     "manifest_version":2,
     "background": {
         "scripts": ["background.js"],
